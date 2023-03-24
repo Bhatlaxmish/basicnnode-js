@@ -1,0 +1,45 @@
+[
+    {
+      "code":"INR",
+      "value":  1
+    },
+     {
+      "code":"MYR",
+      "value":  17.44960
+    },
+     {
+      "code":"HKD",
+      "value":  10.48200
+    },
+      {
+      "code":"CNY",
+      "value":  11.34983
+    },
+      {
+      "code":"BDT",
+      "value":  0.81340
+    },
+      {
+      "code":"JPY",
+      "value":  0.55796
+    },
+      {
+      "code":"SGD",
+      "value":  58.29564
+    },
+     {
+      "code":"IDR",
+      "value": 0.00529
+    },
+     {
+      "code":"KHR",
+      "value":  0.01990
+    },
+     {
+      "code":"KRW",
+      "value":  0.05786 
+    }
+    
+
+]
+	
